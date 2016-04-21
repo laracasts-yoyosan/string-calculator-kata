@@ -9,5 +9,8 @@
 
 ```
 composer install
+npm install
 ./vendor/bin/phpspec run
+# or
+gulp
 ```
